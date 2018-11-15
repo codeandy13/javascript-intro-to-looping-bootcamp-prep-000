@@ -10,7 +10,7 @@
 }
 
 function whileLoop(){
-  while( console.log(countdown > 0)
+  while( console.log(countdown > 0))
   return "done"
 }
 whileLoop();
