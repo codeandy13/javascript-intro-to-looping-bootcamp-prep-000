@@ -9,7 +9,7 @@
   }
 }
 
-function whileLoop(){
+function whileLoop(n){
   while( console.log(countdown > 0))
   return "done"
 }
